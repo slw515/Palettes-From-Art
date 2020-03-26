@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af022cd9f81ee11f387e250240a7d7ac",
+    "revision": "63a1235da7b99905522b4698b0e21c0c",
     "url": "/Palettes-From-Art/index.html"
   },
   {
-    "revision": "d9eba4c880a54f74d503",
-    "url": "/Palettes-From-Art/static/css/main.8a0094ec.chunk.css"
+    "revision": "ae01d9d41135df715389",
+    "url": "/Palettes-From-Art/static/css/main.b9f2c46e.chunk.css"
   },
   {
-    "revision": "cc9c233430d44af77c5d",
-    "url": "/Palettes-From-Art/static/js/2.953aeaac.chunk.js"
+    "revision": "abd4adcaef6816ce22d0",
+    "url": "/Palettes-From-Art/static/js/2.b46c0630.chunk.js"
   },
   {
     "revision": "bc51ad6b075e5b96cf9ad2ad3d22ac0d",
-    "url": "/Palettes-From-Art/static/js/2.953aeaac.chunk.js.LICENSE.txt"
+    "url": "/Palettes-From-Art/static/js/2.b46c0630.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d9eba4c880a54f74d503",
-    "url": "/Palettes-From-Art/static/js/main.727e049a.chunk.js"
+    "revision": "ae01d9d41135df715389",
+    "url": "/Palettes-From-Art/static/js/main.0bfd479f.chunk.js"
   },
   {
     "revision": "b68e4b90d8acc8ebe05b",

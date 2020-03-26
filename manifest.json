@@ -1,8 +1,6 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
-  "homepage": "https://slw515.github.io/palettesfromart",
-
   "icons": [
     {
       "src": "favicon.ico",
