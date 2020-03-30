@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Palettes-From-Art/static/css/main.b9f2c46e.chunk.css",
+    "main.css": "/Palettes-From-Art/static/css/main.2cada384.chunk.css",
     "main.js": "/Palettes-From-Art/static/js/main.0bfd479f.chunk.js",
     "main.js.map": "/Palettes-From-Art/static/js/main.0bfd479f.chunk.js.map",
     "runtime-main.js": "/Palettes-From-Art/static/js/runtime-main.c4c4b34c.js",
@@ -8,9 +8,9 @@
     "static/js/2.b46c0630.chunk.js": "/Palettes-From-Art/static/js/2.b46c0630.chunk.js",
     "static/js/2.b46c0630.chunk.js.map": "/Palettes-From-Art/static/js/2.b46c0630.chunk.js.map",
     "index.html": "/Palettes-From-Art/index.html",
-    "precache-manifest.e7e37c12bc60faff4068acb1b89f0fb1.js": "/Palettes-From-Art/precache-manifest.e7e37c12bc60faff4068acb1b89f0fb1.js",
+    "precache-manifest.7f47714ce68cfa2a3e2dba8919ba68bc.js": "/Palettes-From-Art/precache-manifest.7f47714ce68cfa2a3e2dba8919ba68bc.js",
     "service-worker.js": "/Palettes-From-Art/service-worker.js",
-    "static/css/main.b9f2c46e.chunk.css.map": "/Palettes-From-Art/static/css/main.b9f2c46e.chunk.css.map",
+    "static/css/main.2cada384.chunk.css.map": "/Palettes-From-Art/static/css/main.2cada384.chunk.css.map",
     "static/js/2.b46c0630.chunk.js.LICENSE.txt": "/Palettes-From-Art/static/js/2.b46c0630.chunk.js.LICENSE.txt",
     "static/media/fireplanet2.PNG": "/Palettes-From-Art/static/media/fireplanet2.d6ba3ffe.PNG",
     "static/media/logo.png": "/Palettes-From-Art/static/media/logo.ea8ac385.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c4c4b34c.js",
     "static/js/2.b46c0630.chunk.js",
-    "static/css/main.b9f2c46e.chunk.css",
+    "static/css/main.2cada384.chunk.css",
     "static/js/main.0bfd479f.chunk.js"
   ]
 }

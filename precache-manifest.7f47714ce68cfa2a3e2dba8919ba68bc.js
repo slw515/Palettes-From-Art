@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63a1235da7b99905522b4698b0e21c0c",
+    "revision": "85988ded93305d98fd1ded876cf54781",
     "url": "/Palettes-From-Art/index.html"
   },
   {
-    "revision": "ae01d9d41135df715389",
-    "url": "/Palettes-From-Art/static/css/main.b9f2c46e.chunk.css"
+    "revision": "388f63263f3030c88e81",
+    "url": "/Palettes-From-Art/static/css/main.2cada384.chunk.css"
   },
   {
     "revision": "abd4adcaef6816ce22d0",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Palettes-From-Art/static/js/2.b46c0630.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae01d9d41135df715389",
+    "revision": "388f63263f3030c88e81",
     "url": "/Palettes-From-Art/static/js/main.0bfd479f.chunk.js"
   },
   {
